@@ -1,6 +1,6 @@
 node {
     stage('Clone code') {
-        git 'https://github.com/mehmetCt/demo-project.git'
+        git 'https://github.com/Alisherb28/First_Project_Jenkins.git'
     }
 
     stage('Run tests'){
